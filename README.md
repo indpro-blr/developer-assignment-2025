@@ -4,6 +4,7 @@
 
 We are creating a management solution for running internal operations in Indpro. It is super important as we are losing a lot of money and time doing management manually. This should be a very slim solution to start with and ready to be scalable.
 
+
 **This is a competitive assessment to find the best talent who can design this solution for us. Whoever gets the most of it done will be rewarded for exceptional work.**
 
 ⚠️ **Important**: This assessment should not affect your daily general work responsibilities.
@@ -16,6 +17,14 @@ We are creating a management solution for running internal operations in Indpro.
 1. Make sure you are logged into your GitHub account
 2. At the top of this repository page, you will see a green button that says **"Use this template"**
 3. Click on **"Use this template"** button
+
+**Important: You must be signed in to GitHub to use this template**
+
+Before you start:
+1. Sign in to your GitHub account (or create a free account at github.com)
+2. Then click this link to access the template: [your-repository-url]
+3. You will now see the green "Use this template" button
+
 4. Click on **"Create a new repository"** from the dropdown menu
 5. You will be taken to a new page to create your repository
 
